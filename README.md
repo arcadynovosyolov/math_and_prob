@@ -1,4 +1,4 @@
-# math_and_prob
+# prob_and_stats
 Different problems from math/probability/statistics
 - [Birthday problem](https://github.com/arcadynovosyolov/math_and_prob/blob/master/birthday_problem.ipynb) A beginner's problem of coincidence birthdays in a group of people
 - [Competition places](https://github.com/arcadynovosyolov/math_and_prob/blob/master/competition_places.ipynb) How all the places within a competition are distributed?
